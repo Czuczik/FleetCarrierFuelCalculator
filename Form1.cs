@@ -28,7 +28,7 @@ namespace FleetCarrierFuelCalculator
             }
             catch (Exception)
             {
-                MessageBox.Show("Nieprawid³owa wartoœæ.");
+                MessageBox.Show("Invalid value");
                 comsOnBoardTB1.Text = "0";
                 textBox1.Text = "0";
             }
@@ -42,7 +42,7 @@ namespace FleetCarrierFuelCalculator
             }
             catch (Exception)
             {
-                MessageBox.Show("Nieprawid³owa wartoœæ.");
+                MessageBox.Show("Invalid value");
                 PlannedJRTB.Text = "250";
             }
         }
