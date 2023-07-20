@@ -1,0 +1,17 @@
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Release\net6.0-windows\win-x86\FCFC.exe
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Release\net6.0-windows\win-x86\FCFC.deps.json
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Release\net6.0-windows\win-x86\FCFC.runtimeconfig.json
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Release\net6.0-windows\win-x86\FCFC.dll
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Release\net6.0-windows\win-x86\FCFC.pdb
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Release\net6.0-windows\win-x86\FCFC.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Release\net6.0-windows\win-x86\FleetCarrierFuelCalculator.Form1.resources
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Release\net6.0-windows\win-x86\FCFC.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Release\net6.0-windows\win-x86\FCFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Release\net6.0-windows\win-x86\FCFC.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Release\net6.0-windows\win-x86\FCFC.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Release\net6.0-windows\win-x86\FCFC.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Release\net6.0-windows\win-x86\FCFC.dll
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Release\net6.0-windows\win-x86\refint\FCFC.dll
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Release\net6.0-windows\win-x86\FCFC.pdb
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Release\net6.0-windows\win-x86\FCFC.genruntimeconfig.cache
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Release\net6.0-windows\win-x86\ref\FCFC.dll

@@ -1,0 +1,2 @@
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Release\net6.0-windows\publish\win-x86\FCFC.pdb
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Release\net6.0-windows\publish\win-x86\FCFC.exe

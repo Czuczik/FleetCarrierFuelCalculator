@@ -1,0 +1,10 @@
+﻿Build started...
+1>------ Publish started: Project: FleetCarrierFuelCalculator, Configuration: Debug Any CPU ------
+1>Determining projects to restore...
+1>All projects are up-to-date for restore.
+1>FleetCarrierFuelCalculator -> C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Debug\net6.0-windows\win-x64\FleetCarrierFuelCalculator.dll
+1>FleetCarrierFuelCalculator -> C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Debug\net6.0-windows\publish\win-x64\
+========== Build: 0 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
+========== Build started at 10:07 AM and took 03,229 seconds ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
+========== Publish started at 10:07 AM and took 03,229 seconds ==========

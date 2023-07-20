@@ -1,0 +1,5 @@
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Release\net6.0-windows\publish\FleetCarrierFuelCalculator.exe
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Release\net6.0-windows\publish\FleetCarrierFuelCalculator.dll
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Release\net6.0-windows\publish\FleetCarrierFuelCalculator.runtimeconfig.json
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Release\net6.0-windows\publish\FleetCarrierFuelCalculator.pdb
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\bin\Release\net6.0-windows\publish\FleetCarrierFuelCalculator.deps.json

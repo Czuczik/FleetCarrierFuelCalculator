@@ -1,0 +1,8 @@
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Debug\netcoreapp3.1\FleetCarrierFuelCalculator.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Debug\netcoreapp3.1\FleetCarrierFuelCalculator.Form1.resources
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Debug\netcoreapp3.1\FleetCarrierFuelCalculator.Properties.Resources.resources
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Debug\netcoreapp3.1\FleetCarrierFuelCalculator.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Debug\netcoreapp3.1\FleetCarrierFuelCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Debug\netcoreapp3.1\FleetCarrierFuelCalculator.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Debug\netcoreapp3.1\FleetCarrierFuelCalculator.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\FleetCarrierFuelCalculator\FleetCarrierFuelCalculator\obj\Debug\netcoreapp3.1\FleetCarrierFuelCalculator.csproj.CoreCompileInputs.cache
